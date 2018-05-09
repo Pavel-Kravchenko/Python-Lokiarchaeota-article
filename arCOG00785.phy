@@ -1,0 +1,164 @@
+ 81 59
+Acidianus_hospitali      LDPEELRKMD IKDLYKKLDE YNAELLKYRA SRMGTLKNTS AIKNVRKDIA
+Acidilobus_saccharo      LSPDDLRKRS LEELTKLLQE QRSELTSLRQ ALSGSIDSPA KIREIRKNIA
+Aciduliprofundum_bo      LKAKQIREMS PEERLKRLSE LREELMHELG AMGGAPPSPG KIRSLRRQIA
+Aeropyrum_pernix         MRSKDLRGMS VEELEKTLRE LRIKLMGLRY AKVGLLENPG ELREARRNVA
+Arabidopsis_tha          IKVHELREKS KSDLQNQLKE LKAELALLRV VTGGAPNKLS KIKVVRKSIA
+Archaeoglobus_fulgid     VKMKEIREMS REEKLRKLRE LELELLKLRT RSGGAVENPG RINLIRKDIA
+Bacillus_subtilis        MKANEIRDLT TAEIEQKVKS LKEELFNLRF LATGQLENTA RIREVRKAIA
+Bacteroides_thetaiota    ---------- ---------- ---------- ---------- ----------
+Borrelia_burgdorferi     --LKNFKNFT LEDMKAKRLE LKKEYLDLRF SVVGHVENPL KKREIRRDIA
+Ca_Nitrososphaera        ---------- ---------- ---------- ---------- ----------
+Caldiarchaeum_subte      MKLQELREMN EKELAEKIEE LKAELRQVVS GKGGMVENPM RKRELRKEIA
+Caldivirga_maquilin      VKLRDLKNMS REDRLRLLNE LRSELIRLET RGRGVVDNPG RMRYVRRLIA
+Campylobacter_jejuni     MKYTEIKDKT AAELATMLKE KKVLLFTLKQ LKTMQLTNPK EISQVKKDIA
+Cenarchaeum_symbios      TRMKTVRSFN EGDLRDRIQQ ARSDLAKLRV SKGTLRKNSG KIRPLRRDIA
+Chlamydia_trachomatis    ---------- ---------- ---------- ---------- ----------
+Desulfurococcus_kam      MKASEIRRMA PEERLRKLNE LRLELVKLRL AKMGTLTNTA RIRNVRRDIA
+Dictyostelium_dis        TKAFELRTKN KTQLLEHLKE LRTELSSLRV VKSPNPSKLA KIGTVRKAIA
+Entamoeba_histolytica    ---------S KNDMNAKLIE LKGELANLRT VTGGAPSKIS RLRVVKKDIA
+Escherichia_coli         MKAKELREKS VEELNTELLN LLREQFNLRM AASGQLQQSH LLKQVRRDVA
+Ferroglobus_placidu      --MEEIRQMS REEKLKKLEE LERELIRLRT RSGGSLENPM QIRAVKKDIA
+Ferroplasma_acidarm      LKAKELRAMS DEEINEKLKA LKESLLKERS AMGGAPASPG TMHSIKKQIA
+Fervidicoccus_fonti      MNADEIRKLT PEQRKEKLNE LRLELSKLQM AHVGTVDNPG KIKVLRKTIA
+Halalkalicoccus_jeo      LHPAEIRDMT PAEREAEVEE LRTELLNMKA AAGGAPENPG RIGELKRTIA
+Haloarcula_marismort     LHVQEIRDMT PAEREAELDD LKTELLNARA AAGGAPENPG RIKELRKAIA
+Halobacterium_NRC        LYTSEIRDMT PAEREAELEE LRTELLNSKA AAGGAPDNPG RISELRKTIA
+Haloferax_volcanii       LYTEEIRDMT PAERTAELED LETELLNAKA AAGGAPENPG RVSELKKTIA
+Homo_sapiens             IKARDLRGKK KEELLKQLDD LKVELSQLRV VTGGAASKLS KIRVVRKSIA
+Hyperthermus_butyli      IKTDDIRKMS PEERLKKLQE LKEELVKLRL AAVGTLENPG AIRAIRKTIA
+Ignicoccus_hospital      LKPDEIRKMS REEREQKLKE LKSELITLRY AKMGHIDNPA KIRNIKRTIA
+Ignisphaera_aggrega      LKASEIRTMS DEDRLKLLNE LRMELVRLIT ARSGTLTNVA RIRIVRKNIA
+Leishmania_infant        MKIKDLREKS KDDLLKTLTE YKKELSQLRV QTGGAETRLG RIRPIRKSIA
+Loki1                    LTAKKIREMD ERERERELIN KREELMILYS TGGGLSDNPG KPKTIRKEIA
+Loki2                    LRMSEIRKYR PEQRETRLLQ YRKELMDVYS SAGGSIEDPS KIKQLKKTIA
+Loki3                    LRTDEIRKMS LDDRMKNLND LNLRMLRFKA ASGGNVDNPG EIREIKRTIA
+Metallosphaera_cupr      KKMNELRNLS EEDLRKRLEE LKSDLLKRKA ARLGTLKNTS SIRNIRKDIA
+Metallosphaera_sedu      KRVSELRKLS EEDLKKRLEE LKADLLKRKA ARMGTIKNTS SIRNIRKDIA
+Methanobacterium_AL      LRSKEIRAME IDEIQKKLDE LKAEHSKNIS AAAGVYENPG KIKELKRTIA
+Methanocaldococcus_j     LRADELRGMS MEELKEKLVE LKRELLKERA AVAGAPSNPG RMREIRRTIA
+Methanocella_paludi      VRAKEIREMS DDQVEKQLKD LRNELLKERA STGGAPESPG RIRELRRTIA
+Methanococcus_marip      LKASEIRELS AEEMKGKIAE LKRELMKEGV STGGAPSNPG KISEIKRTIA
+Methanocorpusculum_      FRAKEVAQFS DAELVENEQK LKIELIQNYG SAGGAPENPG KIREVRRTIA
+Methanoculleus_mari      FRAREVKQLS DTELLEQEQK LSLELIQERG SAGGATENPG RIREVRRTIA
+Methanohalobium_eve      LRNNEIRNMS PQERKDEIEK FQTELSNEKA SAGGSPENPG RIGELKRTVA
+Methanomassilii_MlumB10  LRTSEIREMP VEDRAKKLRE LRDELMHERG AMGGAPTNPG KIRALRTNIA
+Methanoplanus_petro      FRASEVSQFS DAELTEQLSK LELELVQDLG SAGGAPENPG RIHEVKRTIA
+Methanosaeta_thermo      FRIDEIRNMS SEELEEELRK LEVELIRERG RAGGAPEKPG RIREIRRTIA
+Methanosarcina_aceti     LRTSEIRTMT IEERADELEN LNNELVRERA SAGGAPENPG RIGEIRRTIA
+Methanosphaera_stadt     LRSKELRDLS PSDLEVKLTE LHAEYDTLVS AVAG-VDNPG KIKETRRTIA
+Methanosphaerula_pa      FRAREVAQLT DVELTEQMSK LQLELIKHNG SAGGATENPG HIRELKRTIA
+Methanospirillum_hun     FRARDVSQLS DVELVEQVDK LRMELIQYHG SAGGSTENAG RIREIRRTIA
+Methanothermobacter_     LRSEEIREMD GEELQKKLDE LKAEYARYIS AAAGIHENPG KMREIRRTIA
+Methanothermus_ferv      LKPDELREMS VKELEKKLEE LRAEYSKEES AASGAPDNPG RMRELRRTIA
+Methanotorris_igneu      LRASEIREMS IEEMKEKLVE LKKELLKENV AVSGAPSNPG RVKELKRTIA
+Nitrosoarchaeum_kor      --MKTIRELN EKDLKSKIQE TRSELAKLRV SKGTLRKESG KLKPLRHDIA
+Nitrosoarchaeum_lim      LSMKTIRELN EKDLKSKIQE TRSELAKLRV SKGTLRKESG KLKPLRHDIA
+Nitrosopumilus_mari      ISMKTIKQLN EKDLKSKIQE SRSELGKLRV AKGTLRKESG KLKPIRHDIA
+Picrophilus_torridus     LRAKALREMS DEELNEKLSS LKESLLRERS AMGGAPSSPG KMRSIRRQIA
+Plasmodium_falcip        ---------- ---------- ---------- ---------- ----------
+Pyrobaculum_aerophil     LKAKVLREMK PEERRELLNQ LRAELVRLET RARGFVEKPG RIRQVRRIIA
+Pyrobaculum_calidif      LKPKALREMS PEERRELLNQ LRAELVKLQT RSRGFVEKPG RIRQVRRMIA
+Pyrococcus_furiosus      MKPSEIREMS IEEIDAKIRE LRLQLAKERG TMGTSLENPM VIRNLRRDIA
+Pyrolobus_fumarii        IKTDDIRKMS PEERIKKLRE LQEELVRLRL AAMGTLDNPG AIRAIRKTIA
+Rhodopirellula_baltic    ---------- ---------- ---------- ---------- ----------
+Rickettsia_prowazekii    LLRSKLSTET IEELYKNLNL LKKELFNLRF QALGELKNTS RFSLVKKSIA
+Saccharomyces_cerevis    VKAYELRTKS KEQLASQLVD LKKELAELKV LSRPS---LP KIKTVRKSIA
+Staphylothermus_mar      MKPDEIRKMT KEERLRRLNE LRLELIKLRM ARVGTLTNTA RIRNIKRDIA
+Sulfolobus_acidocald     LEVDELRKMD LKQLKERLNE LEMQLLKLRV SRMGTLKNTA SIKNTRKDIA
+Sulfolobus_islandic      VDLEELRKME KGELLKKVDE LRLELMKLRV ARMGTLKNTA SIRNTRKDIA
+Sulfolobus_solfatari     VDPEELRKME TGDLLKKLDE LKLELIKLRV SRMGTLKNTA SIRNTRKDIA
+Sulfolobus_tokodaii      YDIKEISNQT VEELQGKLND LQQELLKRKV ARMGTLKNTA SIRNLRKDIA
+Synechocystis_PCC        PNIADARKLG DEELATEILA TKQRLFQLRF QATRRPENPH EFKHARHRLA
+Tetrahymena_ther         VRVFKLRTQT EEQLVGELGK LQTELSQLRI IAGGTANKLG RIGIVRKAIA
+Thalassiosira_pseudo     VKAYELRGLP KEELVKTLNE LRKELSELHV VTGGAASKIA KIKSVRKSIA
+Thermococcus_kodakar     MKPSEIREMS IEEIDKKIRE LRLELAKERG TMGASMENPM VIRNLRRDIA
+Thermofilum_pendens      KQAEELRKMS REERQKRLQE LRGELARLKA AHRGSLENVA SIRKIKREIA
+Thermoplasma_acidop      LRAKQIRQMS KEERQETLKN LKESLLHERA SMGGSSPSPG KVRGIRRQIA
+Thermoproteus_uzoni      MNAKTLRQMS REDRLKLLDQ LRAEYVKLQT RARGIVENSG RIRFIRRAIA
+Thermosphaera_aggre      MKASEIRKMT PEERLLKLNE LRVELVKLRL SRVGTLTNTA RIRNVRRDIA
+Thermotoga_maritima      MKASELRNYT DEELKNLLEE KKRQLMELRF LAMGQLKNTS LIKLTKRDIA
+Trichomonas_vaginalis    ---------- ---------- ---------- ---------- ----------
+Vulcanisaeta_distri      LNARTIRNMK PEDRAKLLND LRNELLKLQT RERGTLDNPG RVRAIRRAIA
+
+                         RILTIISEK
+                         RILTVMNEL
+                         RILTVMNE-
+                         RILTVLREK
+                         QVLTVSSQK
+                         RLKMALCEE
+                         RMKTVIRER
+                         ---------
+                         RLNTMICEY
+                         ---------
+                         RAYTVLAEK
+                         RILTIEHET
+                         RINTAINAL
+                         RMMTRLAEM
+                         ---------
+                         RILTVINEE
+                         RVLTVFNQT
+                         RLLTVMNTQ
+                         RVKTLLNEK
+                         RLKLALREE
+                         RILTVMEEK
+                         RILTIENEE
+                         RVKTIQGEE
+                         RIKTIQGEE
+                         RIKTVQREE
+                         RIKTIQGEE
+                         RVLTVINQT
+                         RILTVMREE
+                         RILTINREE
+                         RILTVINEE
+                         RILTVLNQN
+                         RILTIMNEE
+                         RLLTVGNEK
+                         RIKTINNED
+                         RINTILSQK
+                         RIYTILSEK
+                         RVLTIMNEK
+                         RILTIMNEK
+                         RILTIRKEE
+                         RILTIMKEK
+                         RIKTEQTKR
+                         RIRTEQNAR
+                         RIKTIQREF
+                         RIETIQKEE
+                         RIKTEQTKR
+                         RMKTVQRER
+                         RIKTIQHEL
+                         RVLTIMNEN
+                         RLMTEQNHR
+                         RMKTEQNRR
+                         RVLTIMNEK
+                         RILTIINEK
+                         RILTIMNEK
+                         RMMTRVNEL
+                         RMMTRVNEL
+                         RMLTRLNEM
+                         RVLTVMEEK
+                         ---------
+                         RILTIEREE
+                         RILTIEREL
+                         RLLTIKKEK
+                         RILTVMREE
+                         ---------
+                         RIKTELTKR
+                         CVLTVINEQ
+                         RILTIMREE
+                         RILTVIGEK
+                         RILTVLSEK
+                         RILTVLSEK
+                         RILTLLSII
+                         QLLTVERER
+                         KYLTIINEK
+                         RVLTVHNQQ
+                         RLLTIKREK
+                         RILTIENEL
+                         RLLTVEREE
+                         RILTIEREE
+                         RILTVMREE
+                         RIKTILRER
+                         ---------
+                         RVLTIMNEE
